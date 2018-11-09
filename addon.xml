@@ -7,12 +7,12 @@
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.leviticus" />
 		<import addon="repository.chibo" version="1.0.0" />
-        <import addon="repository.exodusredux" version="0.0.7" />
+        	<import addon="repository.exodusredux" version="0.0.7" />
 		<import addon="script.leviticus.artwork" version="1.0.0" />
 		<import addon="script.leviticus.metadata" version="1.0.0" />
 		<import addon="script.module.urlresolver" version="3.0.0" />
 		<import addon="script.module.requests" />
-        <import addon="script.module.lambdascrapers" />
+        	<import addon="script.module.lambdascrapers" />
 		<import addon="script.module.metahandler" version="1.0.0" />
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="leviticus.py">
